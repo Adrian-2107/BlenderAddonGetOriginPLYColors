@@ -18,6 +18,11 @@ The add-on automatically creates the required material, Geometry Nodes setup, an
 6. Enable the add-on.
 
 ## Usage
+To display the original vertex colors correctly, the viewport shading must be set to **Material Preview**.
+
+The colors will **not** be displayed correctly when using **Solid** shading.
+<img width="74" height="19" alt="image" src="https://github.com/user-attachments/assets/bc70a59c-560c-4efd-95a6-ee1672cd0b18" />
+
 
 The add-on can be accessed directly from the **Object** menu.
 <img width="555" height="39" alt="image" src="https://github.com/user-attachments/assets/a3881d29-1b5f-4871-a18e-ef1493358137" />
